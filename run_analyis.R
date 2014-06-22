@@ -66,8 +66,8 @@ if (! file.exists(DataFolderPath)) {
     act_lab <- read.table(file.path(DataFolderPath,"activity_labels.txt"))
     
     
-    
-    
+# new line 5:08 21/6
+#new line after add 5:15 21/6    
     
    
     
