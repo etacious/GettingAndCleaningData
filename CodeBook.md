@@ -16,8 +16,5 @@ feat_isfreqmean <- sapply(feat$V2,function(x) grepl("meanFreq",x))
 #all selected measurment fields, excluding meanFreq
 feat_sel <- (feat_ismean & ! feat_isfreqmean)  | feat_isstd
 ```
-#new line
-#another new line
 
-# back on master
 
